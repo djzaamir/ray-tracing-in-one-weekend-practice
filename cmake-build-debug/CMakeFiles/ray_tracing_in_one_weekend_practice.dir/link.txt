@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ray_tracing_in_one_weekend_practice.dir/main.cpp.o  -o ray_tracing_in_one_weekend_practice 
